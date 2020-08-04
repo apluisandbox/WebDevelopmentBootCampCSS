@@ -1,0 +1,158 @@
+body {
+  background-color: #222831;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #32e0c4;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #32e0c4;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #32e0c4;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  background-color: #222831;
+  padding-top: 100px;
+}
+
+p {
+  color: #eeeeee;
+  font-weight: normal;
+  font-size: 1.2rem;
+  line-height: 2;
+}
+
+hr {
+  border: dotted #393e46 8px;
+  border-bottom: none;
+  width: 2%;
+  margin: 100px auto 100px auto;
+}
+
+a {
+  color: #eeeeee;
+  font-family: 'Merriweather', serif;
+}
+
+.intro {
+  margin: auto;
+  text-align: center;
+  width: 30%;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 40px;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.automation-img {
+  float: left;
+  padding-right: 20px;
+  margin-right: 20px;
+  width: 10rem;
+  height: auto;
+
+}
+
+.manual-img {
+  float: right;
+  padding-left: 20px;
+  margin-left: 20px;
+  width: 10rem;
+  height: auto;
+}
+
+.information {
+  float: left;
+  padding-right: 20px;
+  margin-right: 20px;
+  width: 10rem;
+  height: auto;
+}
+
+.bottom-container {
+  background-color: #000000;
+  text-align: center;
+  padding: 50px 0 20px;
+}
+
+.data {
+  float: right;
+  padding-left: 20px;
+  margin-left: 20px;
+  width: 10rem;
+  height: auto;
+}
+
+.copyright {
+  color: #eeeeee;
+  font-size: 0.75rem;
+  padding:20px 0;
+  text-align: center;
+}
+
+.final-cloud-1 {
+  position: absolute;
+  right: 300px;
+}
+
+.final-cloud-2 {
+  position: absolute;
+  left: 300px;
+}
+
+.bye {
+  text-align: center;
+  width: 25%;
+  padding: 50px 0;
+  margin: 100px auto 100px auto;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Montserrat;
+  color: #ffffff;
+  font-size: 20px;
+  background: #318fb5;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  text-decoration: none;
+}
